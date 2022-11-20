@@ -1,0 +1,18 @@
+.footer-bawah {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align:left;
+    
+}
+
+.footer-bawah {
+    padding:1px auto;
+    padding-left: 10px;
+    margin-bottom: 1pc;
+    opacity: 90%;
+    background: linear-gradient(180deg, rgba(91,87,87,0.7347981428899685) 0%, rgba(197,197,197,1) 72%);
+    
+}
